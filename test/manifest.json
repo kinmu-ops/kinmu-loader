@@ -1,11 +1,11 @@
 {
- "version": "1f5663b-202610171836",
- "at": "2026-10-17T09:37:56.779Z",
- "atLocal": "2026/10/17 18:37:56",
+ "version": "2366864-202610172311",
+ "at": "2026-10-17T14:11:48.217Z",
+ "atLocal": "2026/10/17 23:11:48",
  "files": {
-  "index.html": "6fd0844eea4c68c813a49ff4e1bec3cdc72892ada23ab9fcfb702798279b0322"
+  "index.html": "d13772f862967f6b2337d0063700b89c309d7e35a0410584ef12c9c62eb5b5b0"
  },
  "cspHashes": [
-  "'sha256-QA6bEsaPGHQ+BXXzftujWUJTTe4T+8jOIpIFpYRkCag='"
+  "'sha256-C6MpVRQU/v52N3WZ4jFVbb1TWxqpFKBng3LZIl6Ct0g='"
  ]
 }
